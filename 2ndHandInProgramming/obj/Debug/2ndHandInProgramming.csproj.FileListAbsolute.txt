@@ -1,0 +1,168 @@
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll.config
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.pdb
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CopyComplete
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\Programming\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.pdb
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll.config
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.pdb
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CopyComplete
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.pdb
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll.config
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\2ndHandInProgramming.pdb
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.csproj.CopyComplete
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.dll
+C:\Users\ACER\Desktop\CPHBusiness-Web Development\Programming\2ndHandIn\2ndHandInProgramming\2ndHandInProgramming\obj\Debug\2ndHandInProgramming.pdb
